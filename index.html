@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Smart Mock Test Portal</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app-container" id="app">
+    
+    <div id="view-login">
+        <div style="text-align: center; margin-bottom: 30px;">
+            <h1>Smart Mock Test</h1>
+            <p>Civil Engineering | Loksewa Prep</p>
+        </div>
+        
+        <div class="input-group">
+            <span class="label">Full Name</span>
+            <input type="text" id="inp-name" class="glass-input" placeholder="Enter your name">
+        </div>
+        
+        <div class="input-group">
+            <span class="label">Qualification</span>
+            <select id="inp-qual" class="glass-input">
+                <option value="Engineer">Engineer</option>
+                <option value="Sub-Engineer">Sub-Engineer</option>
+                <option value="Asst. Sub-Engineer">Asst. Sub-Engineer</option>
+            </select>
+        </div>
+
+        <div class="input-group">
+            <span class="label">Unique Code</span>
+            <input type="tel" id="inp-code" class="glass-input" placeholder="Enter 5-digit code">
+        </div>
+
+        <div class="input-group">
+            <span class="label">Password (Auto-Fill)</span>
+            <input type="password" id="inp-pass" class="glass-input" placeholder="Verifying..." readonly>
+        </div>
+
+        <button class="btn" id="btn-verify" onclick="App.verifyAndLogin()">Verify & Login</button>
+        <p id="auth-msg"></p>
+    </div>
+
+    <div id="view-dash" class="hidden">
+        <div class="dash-header">
+            <h2 id="greet-msg" style="color: var(--primary);">Welcome!</h2>
+            <p>Select a test to begin.</p>
+        </div>
+        
+        <div id="test-list-container" class="scroll-list">
+            <p style="text-align:center; padding:20px;">Loading Tests...</p>
+        </div>
+    </div>
+
+    <div id="view-quiz" class="hidden">
+        <div class="personal-header">
+            <button class="btn-small" onclick="App.dash()">Home</button>
+            <div id="praise-txt" style="font-size: 1.1rem; font-weight: 700; color: white;">Good Luck!</div>
+        </div>
+
+        <div class="info-bar">
+            <span>Q: <span id="q-idx">1</span> / <span id="q-total">50</span></span>
+            <span class="timer-badge" id="timer">45:00</span>
+        </div>
+
+        <div id="q-container">
+            <div class="question-text" id="q-text">Loading...</div>
+            <div id="opts-list"></div>
+            <div class="explanation-box" id="exp-box"></div>
+        </div>
+
+        <button class="btn hidden" id="btn-next" onclick="App.next()">Next Question</button>
+    </div>
+
+    <div id="view-result" class="hidden" style="text-align: center;">
+        <h2>Quiz Completed!</h2>
+        <div class="score-circle">
+            <span class="score-val" id="res-score">0</span>
+            <span style="font-size: 0.8rem; text-transform: uppercase; color: #aaa;">Correct</span>
+        </div>
+        <div style="margin-bottom: 30px;">
+            <h3 id="res-pct" style="color: var(--primary);">0% Accuracy</h3>
+            <p id="sync-status" style="font-size: 0.9rem; margin-top: 10px; opacity: 0.8;">Syncing score...</p>
+        </div>
+        <button class="btn" onclick="App.dash()">Back to Dashboard</button>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
