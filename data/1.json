@@ -1,0 +1,558 @@
+[
+  {
+    "id": 1,
+    "q": "महालेखा परिक्षकको पदावधि नियुक्तिको मितिले कति बर्षको हुन्छ ?",
+    "o": [
+      "4 बर्ष",
+      "5 बर्ष",
+      "7 बर्ष",
+      "६ बर्ष"
+    ],
+    "a": 3
+  },
+  {
+    "id": 2,
+    "q": "कार्यक्षमताको मुल्यांकनको आधारमा हुने बढुवा अन्तर्गत भौगोलिक विकट क्षेत्रमा काम गरे वापत कति अंक प्राप्त गर्दछन् ?",
+    "o": [
+      "10 अंक",
+      "15 अंक",
+      "25 अंक",
+      "२० अंक"
+    ],
+    "a": 3
+  },
+  {
+    "id": 3,
+    "q": "कोशी प्रदेश निजामती सेवा दिवस कहिले मनाइने छ भनि निजामती सेवा नियमावलीमा उल्लेख गरिएको छ ?",
+    "o": [
+      "असोज 10 गते",
+      "असोज 12 गते",
+      "असोज 15 गते",
+      "असोज ११ गते"
+    ],
+    "a": 3
+  },
+  {
+    "id": 4,
+    "q": "कोशी प्रदेश लोकसेवा आयोग ऐन २०७६ मा कति परिच्छेद र दफा रहेका छन् ?",
+    "o": [
+      "परिच्छेद 5 र दफा 50",
+      "परिच्छेद 6 र दफा 60",
+      "परिच्छेद 8 र दफा 70",
+      "परिच्छेद ७ र दफा ६६"
+    ],
+    "a": 3
+  },
+  {
+    "id": 5,
+    "q": "सरकारि कार्यालयहरुको अन्तिम लेखापरिक्षण गर्ने निकाय कुन हो ?",
+    "o": [
+      "महालेखा परीक्षक कार्यालय",
+      "कोष तथा लेखा नियन्त्रक कार्यालय",
+      "आन्तरिक लेखापरीक्षण कार्यालय",
+      "वित्तीय नियन्त्रण कार्यालय"
+    ],
+    "a": 0,
+    "e": "सरकारी कार्यालयहरूको अन्तिम लेखापरीक्षण महालेखा परीक्षकको कार्यालयले गर्दछ भने आन्तरिक लेखापरीक्षण कोलेनिकाले गर्दछ।"
+  },
+  {
+    "id": 6,
+    "q": "कोशी प्रदेश आवधिक योजनाको दिर्घकालीन सोच देहायका मध्ये कुन हो ?",
+    "o": [
+      "सुखि प्रदेश समुन्नत जनता",
+      "स्वच्छ , सुखी र समुन्नत प्रदेश",
+      "सुखी , सम्मुनत र स्वस्थ प्रदेश",
+      "समुन्नत , सुखी र स्वच्छ प्रदेश"
+    ],
+    "a": 1
+  },
+  {
+    "id": 7,
+    "q": "आर्थिक वर्ष 2085/86 मा कोशि प्रदेशको आर्थिक वृद्धिदर कति पुर्याउने लक्ष्य रहेको छ ?",
+    "o": [
+      "5%",
+      "6%",
+      "8%",
+      "७.५५%"
+    ],
+    "a": 3
+  },
+  {
+    "id": 8,
+    "q": "अध्ययन बिदा लिने कर्मचारीले कति वर्ष सेवा अवधि पुरा नगरी बिदा लिन पाउदैनन्?",
+    "o": [
+      "2 वर्ष",
+      "4 वर्ष",
+      "5 वर्ष",
+      "३ वर्ष"
+    ],
+    "a": 3
+  },
+  {
+    "id": 9,
+    "q": "प्रदेश निजामती सेवाको पदमा शुरु नियुक्ति गर्दा पुरुष कर्मचारीलाई कति समय परीक्षणकाल मा राखिने छ?",
+    "o": [
+      "3 महिना",
+      "9 महिना",
+      "2 वर्ष",
+      "1 वर्ष"
+    ],
+    "a": 3
+  },
+  {
+    "id": 10,
+    "q": "निजामति कर्मचारीलाई एक बर्षमा बढीमा कति महिनाको लागि काजमा खटाउन सकिनेछ?",
+    "o": [
+      "1 महिना",
+      "2 महिना",
+      "6 महिना",
+      "३ महिना"
+    ],
+    "a": 3
+  },
+  {
+    "id": 11,
+    "q": "A deficit of sediments in flowing water may cause a river...",
+    "o": [
+      "meandering type",
+      "aggrading type",
+      "degrading type",
+      "sub-critical type"
+    ],
+    "a": 2
+  },
+  {
+    "id": 12,
+    "q": "Bligh’s theory of seepage assumes...",
+    "o": [
+      "equal weightage to the horizontal and vertical creep",
+      "more weightage to horizontal creep than vertical creep",
+      "less weightage to horizontal creep than vertical creep",
+      "loss of head following the sine curve"
+    ],
+    "a": 0
+  },
+  {
+    "id": 13,
+    "q": "Finally formed berms in canals are provided for...",
+    "o": [
+      "protection of banks erosion by the waves",
+      "control of seepage losses",
+      "strengthening of banks",
+      "all the above"
+    ],
+    "a": 3
+  },
+  {
+    "id": 14,
+    "q": "The practical capacity of highway is ............ that of possible capacity.",
+    "o": [
+      "same as",
+      "less than",
+      "more than",
+      "none of these"
+    ],
+    "a": 1
+  },
+  {
+    "id": 15,
+    "q": "The maximum spacing of contraction joints in unreinforced concrete slabs for a slab thickness of 20 cm is ............",
+    "o": [
+      "4.5 m",
+      "10 m",
+      "15 m",
+      "20 m"
+    ],
+    "a": 0
+  },
+  {
+    "id": 16,
+    "q": "The group index method of designing flexible pavement is ............",
+    "o": [
+      "an empirical method based on the physical properties of the sub-grade soil",
+      "an empirical method based on the strength characteristics of the sub-grade soil",
+      "a semi-empirical method",
+      "none of these"
+    ],
+    "a": 0
+  },
+  {
+    "id": 17,
+    "q": "The head of the circle of public works department is ............",
+    "o": [
+      "assistant engineer",
+      "executive engineer",
+      "circle engineer",
+      "superintending engineer"
+    ],
+    "a": 3
+  },
+  {
+    "id": 18,
+    "q": "Whenever the whitewashing or distempering is done on corrugated iron sheets, in the estimation the plan area the sheets is increased by ............",
+    "o": [
+      "2%",
+      "7%",
+      "10%",
+      "14%"
+    ],
+    "a": 3
+  },
+  {
+    "id": 19,
+    "q": "Any delay in starting, that involves consumption of any of the interfering floats of an activity, will result in ............",
+    "o": [
+      "retarding of some following activity",
+      "delaying the overall project time",
+      "both 'a' and 'b'",
+      "none of the above"
+    ],
+    "a": 0
+  },
+  {
+    "id": 20,
+    "q": "Site order book is used for recording ............",
+    "o": [
+      "instructions of the executive engineer",
+      "construction measurements",
+      "requisition of plants and equipment",
+      "indents for materials to be ordered"
+    ],
+    "a": 0
+  },
+  {
+    "id": 21,
+    "q": "The start or completion of task is called ............",
+    "o": [
+      "an event",
+      "an activity",
+      "a duration",
+      "any one of these"
+    ],
+    "a": 0
+  },
+  {
+    "id": 22,
+    "q": "The total correction for elevation and temperature for basic runway length should not be more than ...",
+    "o": [
+      "50%",
+      "35%",
+      "20%",
+      "none of the above"
+    ],
+    "a": 1
+  },
+  {
+    "id": 23,
+    "q": "Which of the following is used for servicing and repairs of the aircraft?",
+    "o": [
+      "Apron",
+      "Hanger",
+      "Terminal building",
+      "holding apron"
+    ],
+    "a": 1
+  },
+  {
+    "id": 24,
+    "q": "The most reliable method of plotting a theodolite traverse, is",
+    "o": [
+      "by consecutive co-ordinates of each station",
+      "by independent co-ordinates of each station",
+      "by plotting included angles and scaling off each traverse leg",
+      "by the tangent method of plotting"
+    ],
+    "a": 1
+  },
+  {
+    "id": 25,
+    "q": "The sensitiveness of a level tube decreases if",
+    "o": [
+      "radius of curvature of its inner surface is increased",
+      "diameter of the tube is increased",
+      "length of the vapour bubble is increased",
+      "both viscosity and surface tension are increased"
+    ],
+    "a": 3
+  },
+  {
+    "id": 26,
+    "q": "Perpendicularity of an offset may be judged by eye, if the length of the offset is",
+    "o": [
+      "5 m",
+      "10 m",
+      "15 m",
+      "25 m"
+    ],
+    "a": 2
+  },
+  {
+    "id": 27,
+    "q": "Greater accuracy in linear measurements, is obtained by",
+    "o": [
+      "Tacheometry",
+      "direct taping",
+      "direct chaining",
+      "All of the above"
+    ],
+    "a": 1
+  },
+  {
+    "id": 28,
+    "q": "A volatile substance added to a paint to make its application easy and smooth is known as",
+    "o": [
+      "base",
+      "solvent",
+      "vehicle",
+      "none to these"
+    ],
+    "a": 1
+  },
+  {
+    "id": 29,
+    "q": "The liquid medium used in oil paints is",
+    "o": [
+      "thinner",
+      "alcohol",
+      "linseed oil",
+      "turpentine"
+    ],
+    "a": 2
+  },
+  {
+    "id": 30,
+    "q": "Identify the process responsible for the formation of sedimentary rocks.",
+    "o": [
+      "Solidification of molten mass if silicates below or at the surface of earth",
+      "Changes in texture or mineral composition or both of igneous and sedimentary rocks due to high temperature and heavy pressure",
+      "Deposited layers of sand and silt subjected in enormous overburden over geological times",
+      "None of above"
+    ],
+    "a": 2
+  },
+  {
+    "id": 31,
+    "q": "What is the total percentage of aggregates in concrete by volume?",
+    "o": [
+      "50-60%",
+      "60-75%",
+      "85%",
+      "50%"
+    ],
+    "a": 1
+  },
+  {
+    "id": 32,
+    "q": "A non-yielding support implies that the",
+    "o": [
+      "Support is frictionless",
+      "Support can take any amount of reaction",
+      "Support holds member firmly",
+      "Slope of the beam at the support is zero"
+    ],
+    "a": 3
+  },
+  {
+    "id": 33,
+    "q": "Euler's formula holds good only for",
+    "o": [
+      "short column",
+      "long column",
+      "both short and long columns",
+      "weak columns"
+    ],
+    "a": 1
+  },
+  {
+    "id": 34,
+    "q": "In a simply supported slab, alternate bars are curtailed at",
+    "o": [
+      "1/4th of the span",
+      "1/5th of the span",
+      "1/6th of the span",
+      "1/7th of the span"
+    ],
+    "a": 3
+  },
+  {
+    "id": 35,
+    "q": "The maximum permissible size of aggregates to be used in casting the ribs of a slab, is",
+    "o": [
+      "5mm",
+      "7.5 mm",
+      "10 mm",
+      "15 mm"
+    ],
+    "a": 2
+  },
+  {
+    "id": 36,
+    "q": "The effective width of a column strip of flat slab is",
+    "o": [
+      "one-fourth width of the panel",
+      "Half width of the panel",
+      "Radius of the column",
+      "Diameter of column"
+    ],
+    "a": 1
+  },
+  {
+    "id": 37,
+    "q": "Which type of seismic waves are the fastest and arrive first at a seismic station?",
+    "o": [
+      "S-waves",
+      "Love waves",
+      "P-waves",
+      "Rayleigh waves"
+    ],
+    "a": 2,
+    "e": "P-waves (Primary waves) are longitudinal waves that travel fastest through both solids and liquids. [attachment_0](attachment)"
+  },
+  {
+    "id": 38,
+    "q": "Nepal lies in which seismic zone according to the Indian Standard (IS) code classification?",
+    "o": [
+      "Zone III and IV",
+      "Zone IV and V",
+      "Zone II and III",
+      "Zone V only"
+    ],
+    "a": 1
+  },
+  {
+    "id": 39,
+    "q": "The workability of concrete is said to be medium if the slump test is in the range of __________ mm.",
+    "o": [
+      "0-25 mm",
+      "25-50 mm",
+      "50-75 mm",
+      "75-100 mm"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 40,
+    "q": "The process of providing an impervious layer of rich cement mortar over the exposed surfaces under pressure is called:",
+    "o": [
+      "Plastering",
+      "Pointing",
+      "Guniting",
+      "Rendering"
+    ],
+    "a": 2
+  },
+  {
+    "id": 41,
+    "q": "The entrance of rainwater into the ground is known as:",
+    "o": [
+      "Runoff",
+      "Percolation",
+      "Evaporation",
+      "Infiltration"
+    ],
+    "a": 3
+  },
+  {
+    "id": 42,
+    "q": "According to the National Water Supply Standards 2062, the maximum concentration limit for copper (Cu) is:",
+    "o": [
+      "0.5 ppm",
+      "1 ppm",
+      "1.5 ppm",
+      "2.0 ppm"
+    ],
+    "a": 1
+  },
+  {
+    "id": 43,
+    "q": "The minimum diameter of a sewer in case of hills should be:",
+    "o": [
+      "15 cm",
+      "20 cm",
+      "7.5 cm",
+      "10 cm"
+    ],
+    "a": 3
+  },
+  {
+    "id": 44,
+    "q": "The maximum pressure which soil can carry safely without the risk of shear failure is called:",
+    "o": [
+      "Safe bearing capacity",
+      "Net safe bearing capacity",
+      "Net ultimate bearing capacity",
+      "Allowable bearing capacity"
+    ],
+    "a": 0
+  },
+  {
+    "id": 45,
+    "q": "The decrease in volume of soil mass under stress is called:",
+    "o": [
+      "Compression",
+      "Consolidation",
+      "Compressibility",
+      "Shear failure"
+    ],
+    "a": 0
+  },
+  {
+    "id": 46,
+    "q": "The compaction method suitable for small areas like trenches of is:",
+    "o": [
+      "Rolling",
+      "Kneading",
+      "Vibration",
+      "Ramming"
+    ],
+    "a": 3
+  },
+  {
+    "id": 47,
+    "q": "Which of the following admixtures is used to improve the density of the soil?",
+    "o": [
+      "NaCl (Sodium Chloride)",
+      "CaCl2 (Calcium Chloride)",
+      "CaSO4 (Calcium Sulfate - Gypsum)",
+      "NaOH (Sodium Hydroxide)"
+    ],
+    "a": 2
+  },
+  {
+    "id": 48,
+    "q": "The equation of continuity of a fluid is applicable only if:",
+    "o": [
+      "The fluid is steady",
+      "The fluid is incompressible",
+      "The fluid is one dimensional",
+      "Velocity is variable as per the cross-section",
+      "All of the above"
+    ],
+    "a": 4
+  },
+  {
+    "id": 49,
+    "q": "The rise of water table during the transformation of unstable shooting flow to stable streaming flow is known as:",
+    "o": [
+      "Hydraulic drop",
+      "Critical flow",
+      "Hydraulic jump",
+      "Weir"
+    ],
+    "a": 2,
+    "e": ""
+  },
+  {
+    "id": 50,
+    "q": "The HGL is Genarally not always above the pipeline of",
+    "o": [
+      "Gravity main",
+      "Siphon",
+      "Pressure main",
+      "Distribution line"
+    ],
+    "a": 1,
+    "e": ""
+  }
+]

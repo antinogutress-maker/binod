@@ -1,0 +1,12 @@
+[
+    {
+        "id": 2,
+        "name": "Smart Mock Test 2",
+        "file": "tests/2.json"
+    },
+    {
+        "id": 1,
+        "name": "Smart Mock Test 1",
+        "file": "tests/1.json"
+    }
+]
